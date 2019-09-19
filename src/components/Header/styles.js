@@ -53,4 +53,5 @@ export const FavIcon = styled.View`
 export const FavName = styled.Text`
     color: #FFF;
     font-size: 10px;
+    width: 55px;
 `;

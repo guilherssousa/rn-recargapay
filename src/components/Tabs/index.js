@@ -1,7 +1,5 @@
 import React from 'react';
 
-import { StyleSheet } from 'react-native';
-
 import { Container, TabsContainer, TabItem, TabTitle, TabText, TabDescription } from './styles';
 
 export default function Tabs() {
@@ -12,7 +10,7 @@ export default function Tabs() {
                     <TabTitle>
                         <TabText>Dê uma recarga, receba R$10!</TabText>
                     </TabTitle>
-                    <TabDescription>Ganhe por cada um que fizer a 1ª compra.</TabDescription>
+                    <TabDescription>Ganhe por cada um que fizer a 1ª compra a vista.</TabDescription>
                 </TabItem>
                 <TabItem>
                     <TabTitle>

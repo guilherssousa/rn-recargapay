@@ -1,7 +1,7 @@
-import axios from 'axios';
-
-const api = axios.create({
-  baseURL: 'https://api.github.com',
-});
+const api = {
+  region: 'Brasil',
+  currencies: 'BRL (Real)',
+  saldo: 0.00,
+}
 
 export default api;

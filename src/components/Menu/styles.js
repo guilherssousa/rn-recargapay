@@ -17,4 +17,5 @@ export const ItemIcon = styled.View`
 
 export const ItemText = styled.Text`
     font-size: 12px;
+    text-align: center;
 `;

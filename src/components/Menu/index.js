@@ -12,22 +12,19 @@ export default function Menu() {
                     <ItemIcon>
                         <Icon name="mobile-alt" size={20} color="#495057" />
                     </ItemIcon>
-                    <ItemText>Recarga de</ItemText>
-                    <ItemText>Celular</ItemText>
+                    <ItemText>Recarga de Celular</ItemText>
                 </Item>
                 <Item>
                     <ItemIcon>
                         <Icon name="file-invoice-dollar" size={20} color="#495057" />
                     </ItemIcon>
-                    <ItemText>Pagar contas</ItemText>
-                    <ItemText>e boletos</ItemText>
+                    <ItemText>Pagar contas e boletos</ItemText>
                 </Item>
                 <Item>
                     <ItemIcon>
                         <Icon name="bus" size={20} color="#495057" />
                     </ItemIcon>
-                    <ItemText>Cartão de</ItemText>
-                    <ItemText>Transporte</ItemText>
+                    <ItemText>Cartão de Transporte</ItemText>
                 </Item>
             </Container>
             <Container>

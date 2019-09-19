@@ -31,6 +31,7 @@ target 'recarga' do
 
   pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
 
+
   target 'recargaTests' do
     inherit! :search_paths
     # Pods for testing
