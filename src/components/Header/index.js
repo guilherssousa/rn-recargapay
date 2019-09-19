@@ -10,7 +10,7 @@ export default function Header() {
     return (
       <Container>
         <Top>
-            <Current>R${api.saldo}</Current>
+            <Current>R$250,00</Current>
             <AddMoneyButton>
                 <AddMoneyText>Adicionar dinheiro</AddMoneyText>
             </AddMoneyButton>

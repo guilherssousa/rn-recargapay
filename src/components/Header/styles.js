@@ -54,4 +54,5 @@ export const FavName = styled.Text`
     color: #FFF;
     font-size: 10px;
     width: 55px;
+    text-align: center;
 `;
