@@ -1,6 +1,10 @@
 import React from 'react';
 
-import { StatusBar } from 'react-native';
+import { StatusBar, YellowBox } from 'react-native';
+
+YellowBox.ignoreWarnings([
+    'componentWillMount'
+]);
 
 import '~/config/ReactotronConfig';
 
